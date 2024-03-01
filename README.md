@@ -2,4 +2,4 @@
 This is the Debut project to learn about GitHubself & its  fundamental methodologies.
 
 Prepared By:Amit datta 
-<p> Learn for Fun!!!</p>
+<h1> Learn for Fun!!!</h1>
